@@ -6,10 +6,9 @@
   # quote: >
   description: | # this will include new lines to allow paragraphs
     I enjoy doing cutting edge research at ETH Zürich as proudly a part of Safari Research Group.
-    Please see my (Google Scholar profile)[https://scholar.google.ch/citations?user=mt15O64AAAAJ] for the list of papers I participated.
+    Please see my [Google Scholar profile](https://scholar.google.ch/citations?user=mt15O64AAAAJ) for the list of papers I participated.
 
     My responsibilities also include teaching tasks.
     We teach Digital Design and Computer Architecture.
     We give main courses to provide a strong foundation to hundreds of students.
     Also, we hold seminar courses that we discuss and analyze papers that are milestones or the state-of-the-art in computer architecture.
-    

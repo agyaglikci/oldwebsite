@@ -1,10 +1,38 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
-  quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  name: ETH Zürich
+  dates: 2018 - Present
+  qualification: PhD in Computer Science
+  # quote: >
+    # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    I enjoy doing cutting edge research at ETH Zürich as proudly a part of Safari Research Group.
+    Please see my [Google Scholar profile](https://scholar.google.ch/citations?user=mt15O64AAAAJ) for the list of papers I participated.
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+- layout: left
+  name: University of Notre Dame Du Lac
+  dates: 2014 - 2016
+  qualification: MSc in Computer Science and Engineering
+  # quote: >
+    # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  description: | # this will include new lines to allow paragraphs
+    I worked on data prefetching/caching strategies on clusters under supervision of Prof. Sharon Hu and Prof. Michael Niemier at University of Notre Dame.
+
+- layout: left
+  name: TOBB University of Economics and Technology
+  dates: 2011 - 2014
+  qualification: MSc in Computer Engineering
+  # quote: >
+    # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  description: | # this will include new lines to allow paragraphs
+    I worked on an FPGA based OpenCL-ready accelerator design during my Master's thesis.
+
+- layout: left
+  name: TOBB University of Economics and Technology
+  dates: 2006 - 2011
+  qualification: BSc in Electrical Engineering
+  # quote: >
+    # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  description: | # this will include new lines to allow paragraphs
+    I enjoyed my undergrad years in TOBB University, studying electrical engineering on an unofficial track of computer architecture that I pursued in the rest of my career.
+    I also completed several projects in robotics, airplane design, autopilot design of UAVs, system design of a distributed motion sensor network, and an FPGA-based data acquisition card for balancing machines.
+    I've interned with three companies for a total of 11.5 months, and worked part-time with one company during my undergrad. 
