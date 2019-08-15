@@ -1,6 +1,6 @@
 - layout: left
   company: ETH Zürich
-  link: safari.ethz.ch
+  link: https://safari.ethz.ch
   job_title: Scientific Assistant
   dates: March 2018 - Present
   # quote: >
@@ -11,4 +11,127 @@
     My responsibilities also include teaching tasks.
     We teach Digital Design and Computer Architecture.
     We give main courses to provide a strong foundation to hundreds of students.
-    Also, we hold seminar courses that we discuss and analyze papers that are milestones or the state-of-the-art in computer architecture.
+    Also, we hold seminar courses where we analyze papers that are
+    either milestones in computer architecture research or that propose the
+    state-of-the-art methods and groundbreaking ideas.
+
+- layout: left
+  company: Intel Corp.
+  link: https://www.intel.com
+  job_title: Research Intern
+  dates: September 2017 - February 2018
+  # quote: >
+  # description: | # this will include new lines to allow paragraphs
+  #   We have been
+
+- layout: left
+  company: Carnegie Mellon University
+  link: https://www.ece.cmu.edu/~safari/
+  job_title: Research Intern
+  dates: August 2016 - August 2017
+  # quote: >
+  description: | # this will include new lines to allow paragraphs
+    I have collaborated on two projects on DRAM characterization during my
+    internship in CMU-SAFARI research group which are published in
+    SIGMETRICS 2017 and 2018. In our SIGMETRICS'17 paper we characterize row
+    activation and precharge latencies under reduced voltage operation.
+    Our SIGMETRICS'18 paper proposes an accurate energy model for commodity DDR3
+    DRAM devices.
+
+- layout: left
+  company: University of Notre Dame Du Lac
+  link: https://www.nd.edu/
+  job_title: Research Assistant
+  dates: August 2014 - August 2016
+  # quote: >
+  description: | # this will include new lines to allow paragraphs
+    During my MSc program at University of Notre Dame, I worked on a research
+    project that aims improving linked-data prefetching by using Software-Hardware
+    cooperation.
+
+- layout: left
+  company: TOBB University of Economics & Technology
+  link: https://www.etu.edu.tr/
+  job_title: Teaching Assistant
+  dates: January 2012 - August 2014
+  # quote: >
+  description: | # this will include new lines to allow paragraphs
+    I worked as the teaching assistant of the following courses.
+  Digital Logic Design: Course book is Mano’s Digital Design. Lab studies were
+  some basic implementations of logic circuits by using Verilog HDL. At the end
+  of semester each student implements a single cycle cpu with a predefined
+  instruction set.
+  Computer Architecture: Fundamentals of architecture has been taught based on
+  Hennessy & Patterson. This course have some Verilog HDL implementation assignments
+  for particular circuits such as ALU and Register File.
+  Microprocessors: This course focuses on Assembly language programming to
+  clarify the fundamental concepts of computer architecture. During lab studies,
+  Intel 8086 ASM has been used. As another example for assembly languages,
+  KASIRGA ASM ( ASM of our own CPU - KASIRGA ) is also used in course.
+
+- layout: left
+  company: TOBB University of Economics & Technology
+  link: https://www.etu.edu.tr/
+  job_title: Research Assistant
+  dates: May 2013 - August 2014
+  # quote: >
+  description: | # this will include new lines to allow paragraphs
+  I worked in the architecture design of an FPGA-based,  OpenCL-compatible high
+  performance accelerator design funded by ASELSAN - a Turkish Military-supported
+  R&D company.
+
+- layout: left
+  company: Kasırga Information Systems Ltd
+  link: https://www.kasirgalabs.com
+  job_title: Intern Electrical Engineer
+  dates: September 2009 - December 2009, May 2011 - December 2011
+  # quote: >
+  description: | # this will include new lines to allow paragraphs
+  I was employed for a particular project in which I developed an FPGA based data
+  acquisition board for balancing machines. Both the design and implementation
+  of FPGA and PCB was my job. I used Verilog HDL and Xilinx tools for FPGA and
+  Altium Designer for PCB.
+
+- layout: left
+  company: Yumruk Space and Defense Industry Ltd
+  link: https://www.kasirgalabs.com
+  job_title: Intern Electrical Engineer
+  dates: May 2010 - April 2011
+  # quote: >
+  description: | # this will include new lines to allow paragraphs
+  I worked on a military project for sensing human movement under certain
+  circumstances. The project was supported by Turkish Ministry of Science Industry
+  and Technology.
+
+- layout: left
+  company: Global Aviation and Electronics Ltd
+  link: https://www.kasirgalabs.com
+  job_title: Intern Electrical Engineer
+  dates: September 2008 - December 2008
+  # quote: >
+  description: | # this will include new lines to allow paragraphs
+  I designed and implemented a GPS based tracking system.
+
+
+# Skills
+#      Turkish ( Native ), English ( TOEFL IBT: 96 ) Xilinx (ISE, Vivado, Platform Studio, SDK) Verilog
+# • Effect of Computational Resources on Parallel Processing, Adv. Computer Architecture Course, MS
+# • Is GPGPU Worth to Effort on Audio Processing Functions, Adv. Operating Systems Course, MS
+# • expokent.com and cataload.com B2B Network Models, Self Initiative
+# • FPGA Based Real Time Image Rotating, Embedded Systems Course, BS.
+# • Autopilot Design for Unmanned Aerial Vehicle, Independent Research, BS.
+# • Lagari Model Plane Design, DBF2010 Competition, AIAA
+# • Language Skills
+# • Hardware Design Tools
+# • Hardware Description Language
+# • Preferred Programming Languages C++, Python
+# Other Projects1
+#   References
+# Dr. Onur Mutlu
+# Dr. Saugata Ghose Dr. X. Sharon Hu Dr. Michael Niemier Dr. Oguz Ergin
+# ETH Zurich
+# Carnegie Mellon University
+# University of Notre Dame
+# University of Notre Dame
+# TOBB University of Economics & Technology
+# onur.mutlu@inf.ethz.ch ghose@cmu.edu sharon.hu.8@nd.edu mniemier@nd.edu oergin@etu.edu.tr
