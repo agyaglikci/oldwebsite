@@ -16,7 +16,7 @@
     state-of-the-art methods and groundbreaking ideas.
 
 - layout: left
-  company: Intel Corp.
+  company: Intel Labs
   link: https://www.intel.com
   job_title: Research Intern
   dates: September 2017 - February 2018
@@ -82,56 +82,62 @@
     R&D company.
 
 - layout: left
-  company: Kasırga Information Systems Ltd
-  link: https://www.kasirgalabs.com
-  job_title: Intern Electrical Engineer
-  dates: September 2009 - December 2009, May 2011 - December 2011
+  company: Internships during undergrad education
+  # link: https://www.kasirgalabs.com
+  # job_title: Intern Electrical Engineer
+  dates: September 2008 - December 2011
   # quote: >
   description: | # this will include new lines to allow paragraphs
+    ## Kasriga Information Systems Ltd.
+
+    September 2009 - December 2009, May 2011 - December 2011
+
     I was employed for a particular project in which I developed an FPGA based data
     acquisition board for balancing machines. Both the design and implementation
     of FPGA and PCB was my job. I used Verilog HDL and Xilinx tools for FPGA and
     Altium Designer for PCB.
 
-- layout: left
-  company: Yumruk Space and Defense Industry Ltd
-  job_title: Intern Electrical Engineer
-  dates: May 2010 - April 2011
-  # quote: >
-  description: | # this will include new lines to allow paragraphs
-    I worked on a military project for sensing human movement under certain
-    circumstances. The project was supported by Turkish Ministry of Science Industry
-    and Technology.
+    ## Yumruk Space and Defense Industry Ltd.
 
-- layout: left
-  company: Global Aviation and Electronics Ltd
-  link: http://www.globalteknik.com.tr/
-  job_title: Intern Electrical Engineer
-  dates: September 2008 - December 2008
-  # quote: >
-  description: | # this will include new lines to allow paragraphs
+    May 2010 - April 2011
+
+    I worked on a military project for sensing human movement under certain
+    circumstances. The project was supported by Turkish Ministry of Science,
+    Industry, and Technology.
+
+    ## Global Aviation and Electronics Ltd
+
+    September 2008 - December 2008
+
     I designed and implemented a GPS based tracking system.
 
-
-# Skills
-#      Turkish ( Native ), English ( TOEFL IBT: 96 ) Xilinx (ISE, Vivado, Platform Studio, SDK) Verilog
-# • Effect of Computational Resources on Parallel Processing, Adv. Computer Architecture Course, MS
-# • Is GPGPU Worth to Effort on Audio Processing Functions, Adv. Operating Systems Course, MS
-# • expokent.com and cataload.com B2B Network Models, Self Initiative
-# • FPGA Based Real Time Image Rotating, Embedded Systems Course, BS.
-# • Autopilot Design for Unmanned Aerial Vehicle, Independent Research, BS.
-# • Lagari Model Plane Design, DBF2010 Competition, AIAA
-# • Language Skills
-# • Hardware Design Tools
-# • Hardware Description Language
-# • Preferred Programming Languages C++, Python
-# Other Projects1
-#   References
-# Dr. Onur Mutlu
-# Dr. Saugata Ghose Dr. X. Sharon Hu Dr. Michael Niemier Dr. Oguz Ergin
-# ETH Zurich
-# Carnegie Mellon University
-# University of Notre Dame
-# University of Notre Dame
-# TOBB University of Economics & Technology
-# onur.mutlu@inf.ethz.ch ghose@cmu.edu sharon.hu.8@nd.edu mniemier@nd.edu oergin@etu.edu.tr
+# - layout: left
+#   company: Kasırga Information Systems Ltd
+#   link: https://www.kasirgalabs.com
+#   job_title: Intern Electrical Engineer
+#   dates: September 2009 - December 2009, May 2011 - December 2011
+#   # quote: >
+#   description: | # this will include new lines to allow paragraphs
+#     I was employed for a particular project in which I developed an FPGA based data
+#     acquisition board for balancing machines. Both the design and implementation
+#     of FPGA and PCB was my job. I used Verilog HDL and Xilinx tools for FPGA and
+#     Altium Designer for PCB.
+#
+# - layout: left
+#   company: Yumruk Space and Defense Industry Ltd
+#   job_title: Intern Electrical Engineer
+#   dates: May 2010 - April 2011
+#   # quote: >
+#   description: | # this will include new lines to allow paragraphs
+#     I worked on a military project for sensing human movement under certain
+#     circumstances. The project was supported by Turkish Ministry of Science Industry
+#     and Technology.
+#
+# - layout: left
+#   company: Global Aviation and Electronics Ltd
+#   link: http://www.globalteknik.com.tr/
+#   job_title: Intern Electrical Engineer
+#   dates: September 2008 - December 2008
+#   # quote: >
+#   description: | # this will include new lines to allow paragraphs
+#     I designed and implemented a GPS based tracking system.

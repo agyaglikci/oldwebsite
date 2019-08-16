@@ -2,52 +2,74 @@
   name: Copy-row DRAM (CROW)
   link: https://people.inf.ethz.ch/omutlu/pub/CROW-DRAM-substrate-for-performance-energy-reliability_isca19.pdf
   github: CMU-SAFARI/crow
+  youtube: FckbkwW1u_E
   quote: >
-    H. Hassan, M. Patel, J. S. Kim, A. G. Yağlıkçı, N. Vijaykumar, N. Mansouri Ghiasi, S. Ghose, O. Mutlu,
-    "CROW: A Low-Cost Substrate for Improving DRAM Performance, Energy Efficiency, and Reliability,"
-    In Proceedings of the International Symposium on Computer Architecture (ISCA), June 2019.
+    In this paper, we propose a flexible substrate (CROW) that enables new
+    mechanisms for improving DRAM performance, energy efficiency, and reliability.
+    We use this substrate to implement 1) a low-cost in-DRAM caching mechanism that
+    lowers DRAM activation latency to frequently-accessed rows by 38% and 2) a
+    mechanism that avoids the use of short-retention-time rows to mitigate the
+    performance and energy overhead of DRAM refresh operations.
+
   description: | # this will include new lines to allow paragraphs
-    The presentations of the paper are available on YouTube:
     [<mark>Lightning Talk Video</mark>](https://www.youtube.com/watch?v=8Ml5sz63Jbc)
     [<mark>ISCA19 Talk Video</mark>](https://www.youtube.com/watch?v=FckbkwW1u_E)
+    [<mark>Full paper</mark>](https://people.inf.ethz.ch/omutlu/pub/CROW-DRAM-substrate-for-performance-energy-reliability_isca19.pdf)
 
-    Materials:
-      [<mark>Full paper</mark>](https://people.inf.ethz.ch/omutlu/pub/CROW-DRAM-substrate-for-performance-energy-reliability_isca19.pdf)
-      [<mark>ISCA19 Talk (pptx)</mark>](https://people.inf.ethz.ch/omutlu/pub/CROW-DRAM-substrate-for-performance-energy-reliability_isca19-talk.pptx)
-      [<mark>ISCA19 Talk (pdf)</mark>](https://people.inf.ethz.ch/omutlu/pub/CROW-DRAM-substrate-for-performance-energy-reliability_isca19-talk.pdf)
-      [<mark>Lightning Talk (pptx)</mark>](https://people.inf.ethz.ch/omutlu/pub/CROW-DRAM-substrate-for-performance-energy-reliability_isca19-lightning-talk.pptx)
-      [<mark>Lightning Talk (pdf)</mark>](https://people.inf.ethz.ch/omutlu/pub/CROW-DRAM-substrate-for-performance-energy-reliability_isca19-lightning-talk.pdf)
-      [<mark>Poster (pptx)</mark>](https://people.inf.ethz.ch/omutlu/pub/CROW-DRAM-substrate-for-performance-energy-reliability_isca19-poster.pptx)
-      [<mark>Poster (pdf)</mark>](https://people.inf.ethz.ch/omutlu/pub/CROW-DRAM-substrate-for-performance-energy-reliability_isca19-poster.pdf)
+    [<mark>Lightning Talk (pptx)</mark>](https://people.inf.ethz.ch/omutlu/pub/CROW-DRAM-substrate-for-performance-energy-reliability_isca19-lightning-talk.pptx)
+    [<mark>Lightning Talk (pdf)</mark>](https://people.inf.ethz.ch/omutlu/pub/CROW-DRAM-substrate-for-performance-energy-reliability_isca19-lightning-talk.pdf)
+    [<mark>ISCA19 Talk (pptx)</mark>](https://people.inf.ethz.ch/omutlu/pub/CROW-DRAM-substrate-for-performance-energy-reliability_isca19-talk.pptx)
+    [<mark>ISCA19 Talk (pdf)</mark>](https://people.inf.ethz.ch/omutlu/pub/CROW-DRAM-substrate-for-performance-energy-reliability_isca19-talk.pdf)
+
+    [<mark>Poster (pptx)</mark>](https://people.inf.ethz.ch/omutlu/pub/CROW-DRAM-substrate-for-performance-energy-reliability_isca19-poster.pptx)
+    [<mark>Poster (pdf)</mark>](https://people.inf.ethz.ch/omutlu/pub/CROW-DRAM-substrate-for-performance-energy-reliability_isca19-poster.pdf)
+
+    ```
+    H. Hassan, M. Patel, J. S. Kim, A. G. Yağlıkçı, N. Vijaykumar, N. Mansouri Ghiasi, S. Ghose, O. Mutlu, "CROW: A Low-Cost Substrate for Improving DRAM Performance, Energy Efficiency, and Reliability," in Proceedings of the International Symposium on Computer Architecture (ISCA), June 2019.
+    ```
 
 - layout: left
   name: Vampire
   link: https://people.inf.ethz.ch/omutlu/pub/VAMPIRE-DRAM-power-characterization-and-modeling_sigmetrics18_pomacs18-twocolumn.pdf
   github: CMU-SAFARI/VAMPIRE
   quote: >
-    S. Ghose, A. G. Yaglikci, R. Gupta, D. Lee, K. Kudrolli, W. X. Liu, H. Hassan, K. K. Chang, N. Chatterjee, A. Agrawal, M. O'Connor, and O. Mutlu,
-    "What Your DRAM Power Models Are Not Telling You: Lessons from a Detailed Experimental Study,"
-    In Proceedings of the ACM International Conference on Measurement and Modeling of Computer Systems (SIGMETRICS), Irvine, CA, USA, June 2018.
+    To build an accurate model and provide insights into DRAM power consumption,
+    we perform the first comprehensive experi- mental characterization of the
+    power consumed by modern real- world DRAM modules. Our extensive
+    characterization of 50 DDR3L DRAM modules from three major vendors yields four
+    key new observations about DRAM power consumption that prior models cannot
+    capture: (1) guard-bands in datasheets, (2) data dependency, (3) structural
+    variation, and (4) misleading power reduction in datasheets.
+
   description: | # this will include new lines to allow paragraphs
-    Materials:
-      [<mark>Abstract</mark>](https://people.inf.ethz.ch/omutlu/pub/VAMPIRE-DRAM-power-characterization-and-modeling_sigmetrics18-abstract.pdf)
-      [<mark>Full Paper</mark>](https://people.inf.ethz.ch/omutlu/pub/VAMPIRE-DRAM-power-characterization-and-modeling_sigmetrics18_pomacs18-twocolumn.pdf)
-      [<mark>POMACS Journal Version</mark>](https://people.inf.ethz.ch/omutlu/pub/VAMPIRE-DRAM-power-characterization-and-modeling_sigmetrics18_pomacs18.pdf)
-      [<mark>SIGMETRICS18 Talk (pptx)</mark>](https://people.inf.ethz.ch/omutlu/pub/VAMPIRE-DRAM-power-characterization-and-modeling_sigmetrics18-talk.pptx)
-      [<mark>SIGMETRICS18 Talk (pdf)</mark>](https://people.inf.ethz.ch/omutlu/pub/VAMPIRE-DRAM-power-characterization-and-modeling_sigmetrics18-talk.pdf)
+    [<mark>Abstract</mark>](https://people.inf.ethz.ch/omutlu/pub/VAMPIRE-DRAM-power-characterization-and-modeling_sigmetrics18-abstract.pdf)
+    [<mark>Full Paper</mark>](https://people.inf.ethz.ch/omutlu/pub/VAMPIRE-DRAM-power-characterization-and-modeling_sigmetrics18_pomacs18-twocolumn.pdf)
+    [<mark>POMACS Journal Version</mark>](https://people.inf.ethz.ch/omutlu/pub/VAMPIRE-DRAM-power-characterization-and-modeling_sigmetrics18_pomacs18.pdf)
+
+    [<mark>SIGMETRICS18 Talk (pptx)</mark>](https://people.inf.ethz.ch/omutlu/pub/VAMPIRE-DRAM-power-characterization-and-modeling_sigmetrics18-talk.pptx)
+    [<mark>SIGMETRICS18 Talk (pdf)</mark>](https://people.inf.ethz.ch/omutlu/pub/VAMPIRE-DRAM-power-characterization-and-modeling_sigmetrics18-talk.pdf)
+
+    ```
+    S. Ghose, A. G. Yaglikci, R. Gupta, D. Lee, K. Kudrolli, W. X. Liu, H. Hassan, K. K. Chang, N. Chatterjee, A. Agrawal, M. O'Connor, and O. Mutlu, "What Your DRAM Power Models Are Not Telling You: Lessons from a Detailed Experimental Study," in Proceedings of the ACM International Conference on Measurement and Modeling of Computer Systems (SIGMETRICS), Irvine, CA, USA, June 2018.
+    ```
 
 - layout: left
   name: Voltron
   link: https://people.inf.ethz.ch/omutlu/pub/Voltron-reduced-voltage-DRAM-sigmetrics17-paper.pdf
   github: CMU-SAFARI/DRAM-Voltage-Study
   quote: >
-    K. Chang, A. G. Yaglikci, S. Ghose, A. Agrawal, N. Chatterjee, A. Kashyap, D. Lee, M. O'Connor, H. Hassan, and O. Mutlu,
-    "Understanding Reduced-Voltage Operation in Modern DRAM Devices: Experimental Characterization, Analysis, and Mechanisms,"
-    In Proceedings of the ACM International Conference on Measurement and Modeling of Computer Systems (SIGMETRICS), Urbana-Champaign, IL, USA, June 2017.
+    In this paper, we take a comprehensive approach to understanding and
+    exploiting the latency and reliability characteristics of modern DRAM when
+    the supply voltage is lowered below the nominal voltage level specified by
+    DRAM standards.
+
   description: | # this will include new lines to allow paragraphs
-    Materials:
-      [<mark>Abstract</mark>](https://people.inf.ethz.ch/omutlu/pub/Voltron-reduced-voltage-DRAM-sigmetrics17-abstract.pdf)
-      [<mark>Full Paper</mark>](https://people.inf.ethz.ch/omutlu/pub/Voltron-reduced-voltage-DRAM-sigmetrics17-paper.pdf)
-      [<mark>POMACS Journal Version</mark>](https://people.inf.ethz.ch/omutlu/pub/Voltron-reduced-voltage-DRAM-sigmetrics17-pomacs-onecolumn.pdf)
-      [<mark>SIGMETRICS18 Talk (pptx)</mark>](https://people.inf.ethz.ch/omutlu/pub/Voltron-reduced-voltage-DRAM-sigmetrics17-talk.pptx)
-      [<mark>SIGMETRICS18 Talk (pdf)</mark>](https://people.inf.ethz.ch/omutlu/pub/Voltron-reduced-voltage-DRAM-sigmetrics17-talk.pdf)
+    [<mark>Abstract</mark>](https://people.inf.ethz.ch/omutlu/pub/Voltron-reduced-voltage-DRAM-sigmetrics17-abstract.pdf)
+    [<mark>Full Paper</mark>](https://people.inf.ethz.ch/omutlu/pub/Voltron-reduced-voltage-DRAM-sigmetrics17-paper.pdf)
+    [<mark>POMACS Journal Version</mark>](https://people.inf.ethz.ch/omutlu/pub/Voltron-reduced-voltage-DRAM-sigmetrics17-pomacs-onecolumn.pdf)
+    [<mark>SIGMETRICS18 Talk (pptx)</mark>](https://people.inf.ethz.ch/omutlu/pub/Voltron-reduced-voltage-DRAM-sigmetrics17-talk.pptx)
+    [<mark>SIGMETRICS18 Talk (pdf)</mark>](https://people.inf.ethz.ch/omutlu/pub/Voltron-reduced-voltage-DRAM-sigmetrics17-talk.pdf)
+
+    ```
+    K. Chang, A. G. Yaglikci, S. Ghose, A. Agrawal, N. Chatterjee, A. Kashyap, D. Lee, M. O'Connor, H. Hassan, and O. Mutlu, "Understanding Reduced-Voltage Operation in Modern DRAM Devices: Experimental Characterization, Analysis, and Mechanisms," in Proceedings of the ACM International Conference on Measurement and Modeling of Computer Systems (SIGMETRICS), Urbana-Champaign, IL, USA, June 2017.
+    ```
