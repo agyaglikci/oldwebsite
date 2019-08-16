@@ -88,14 +88,14 @@
   dates: September 2008 - December 2011
   # quote: >
   description: | # this will include new lines to allow paragraphs
-    ## Kasriga Information Systems Ltd.
+    ## Kasirga Information Systems Ltd.
 
     September 2009 - December 2009, May 2011 - December 2011
 
     I was employed for a particular project in which I developed an FPGA based data
-    acquisition board for balancing machines. Both the design and implementation
-    of FPGA and PCB was my job. I used Verilog HDL and Xilinx tools for FPGA and
-    Altium Designer for PCB.
+    acquisition board for balancing machines (in partnership with TEG Electronics).
+    Both the design and implementation of FPGA and PCB was my job. I used Verilog
+    HDL and Xilinx tools for FPGA and Altium Designer for PCB.
 
     ## Yumruk Space and Defense Industry Ltd.
 
