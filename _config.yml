@@ -26,13 +26,13 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a PhD student at [Safari Research Group](https://safari.ethz.ch) at
   ETH Zürich under supervision of [Prof. Onur Mutlu](https://people.inf.ethz.ch/omutlu/).
-  I work in the field of computer architecture and particularly focus on memory
+  I work in the field of computer architecture and particularly I focus on memory
   subsystem.
   My recent research includes the characterization of DRAM devices for energy
-  efficient use-cases as well as improving DRAM reliability and security.
+  efficient use-cases as well as improving their reliability and security.
 
 # Projects Section
-# projects_title: Projects
+projects_title: Papers
 
 # Experience Section
 # experience_title: Experience
