@@ -1,4 +1,17 @@
 - layout: left
+  name: EDEN
+  # link: https://people.inf.ethz.ch/omutlu/pub/CROW-DRA
+  # github: CMU-SAFARI/crow
+  # youtube: FckbkwW1u_E
+  quote: >
+    stay tuned...
+
+  description: | # this will include new lines to allow paragraphs
+    ```
+    Skanda Koppula, Lois Orosa, Konstantinos Kanellopoulos, Taha Shahroodi, Roknoddin Azizi, A. Giray Yaglikci, and Onur Mutlu, "EDEN: Energy-Efficient, High-Performance Neural Network Inference Using Approximate DRAM," in Proceedings of the 52nd International Symposium on Microarchitecture (MICRO), Columbus, OH, USA, October 2019.
+    ```
+
+- layout: left
   name: Copy-row DRAM (CROW)
   link: https://people.inf.ethz.ch/omutlu/pub/CROW-DRAM-substrate-for-performance-energy-reliability_isca19.pdf
   github: CMU-SAFARI/crow
