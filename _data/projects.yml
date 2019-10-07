@@ -10,6 +10,7 @@
 
 
   description: | # this will include new lines to allow paragraphs
+    [<mark>Full paper</mark>](https://people.inf.ethz.ch/omutlu/pub/CROW-DRAM-substrate-for-performance-energy-reliability_isca19.pdf)
     ```
     Skanda Koppula, Lois Orosa, Konstantinos Kanellopoulos, Taha Shahroodi, Roknoddin Azizi, A. Giray Yaglikci, and Onur Mutlu, "EDEN: Energy-Efficient, High-Performance Neural Network Inference Using Approximate DRAM," in Proceedings of the 52nd International Symposium on Microarchitecture (MICRO), Columbus, OH, USA, October 2019.
     ```
