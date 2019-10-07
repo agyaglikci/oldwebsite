@@ -1,10 +1,13 @@
 - layout: left
   name: EDEN
-  # link: https://people.inf.ethz.ch/omutlu/pub/CROW-DRA
+  link: https://people.inf.ethz.ch/omutlu/pub/EDEN-efficient-DNN-inference-with-approximate-memory_micro19.pdf
   # github: CMU-SAFARI/crow
   # youtube: FckbkwW1u_E
   quote: >
-    stay tuned...
+    In this paper, we propose a methodology to exploit the DRAM error patterns
+    under reduced voltage and reduced latency operation to improve the energy
+    efficiency of error-resilient deep neural networks (DNNs).
+
 
   description: | # this will include new lines to allow paragraphs
     ```
