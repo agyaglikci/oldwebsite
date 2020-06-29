@@ -1,9 +1,5 @@
 - layout: left
-  name: |
-  Revisiting RowHammer
-  [<mark>Full paper</mark>](https://people.inf.ethz.ch/omutlu/pub/Revisiting-RowHammer_isca20.pdf)
-  [<mark>Talk Video</mark>](https://youtu.be/Lqxc4_ToMUw)
-  [<mark>Slides</mark>](https://people.inf.ethz.ch/omutlu/pub/Revisiting-RowHammer_isca20-talk.pdf)
+  name: Revisiting RowHammer
 
   quote: >
     In this paper, we first present an experimental characterization of RowHammer
@@ -16,19 +12,17 @@
     reduces, to as few as 9.6k (4.8k to two rows each) in the most vulnerable chip
     we tested.
 
-
   description: | # this will include new lines to allow paragraphs
+    [<mark>Full paper</mark>](https://people.inf.ethz.ch/omutlu/pub/Revisiting-RowHammer_isca20.pdf)
+    [<mark>Talk Video</mark>](https://youtu.be/Lqxc4_ToMUw)
+    [<mark>Slides</mark>](https://people.inf.ethz.ch/omutlu/pub/Revisiting-RowHammer_isca20-talk.pdf)
     ```
     Jeremie S. Kim, Minesh Patel, A. Giray Yaglikci, Hasan Hassan, Roknoddin Azizi, Lois Orosa, and Onur Mutlu, "Revisiting RowHammer: An Experimental Analysis of Modern Devices and Mitigation Techniques," in Proceedings of the 47th International Symposium on Computer Architecture (ISCA), Valencia, Spain, June 2020.
     ```
 
 
 - layout: left
-  name: |
-  CLR-DRAM
-  [<mark>Full paper</mark>](https://people.inf.ethz.ch/omutlu/pub/CLR-DRAM_capacity-latency-reconfigurable-DRAM_isca20.pdf)
-  [<mark>Talk Video</mark>](https://www.youtube.com/watch?v=L3Y1eOF9C7U)
-  [<mark>Slides</mark>](https://people.inf.ethz.ch/omutlu/pub/CLR-DRAM_capacity-latency-reconfigurable-DRAM_isca20-talk.pdf)
+  name: CLR-DRAM
 
   quote: >
     In this paper, we first present an experimental characterization of RowHammer
@@ -43,16 +37,15 @@
 
 
   description: | # this will include new lines to allow paragraphs
+    [<mark>Full paper</mark>](https://people.inf.ethz.ch/omutlu/pub/CLR-DRAM_capacity-latency-reconfigurable-DRAM_isca20.pdf)
+    [<mark>Talk Video</mark>](https://www.youtube.com/watch?v=L3Y1eOF9C7U)
+    [<mark>Slides</mark>](https://people.inf.ethz.ch/omutlu/pub/CLR-DRAM_capacity-latency-reconfigurable-DRAM_isca20-talk.pdf)
     ```
     Haocong Luo, Taha Shahroodi, Hasan Hassan, Minesh Patel, A. Giray Yaglikci, Lois Orosa, Jisung Park, and Onur Mutlu, "CLR-DRAM: A Low-Cost DRAM Architecture Enabling Dynamic Capacity-Latency Trade-Off," in Proceedings of the 47th International Symposium on Computer Architecture (ISCA), Valencia, Spain, June 2020.
     ```
 
 - layout: left
-  name: |
-  SysScale
-  [<mark>Full paper</mark>](https://people.inf.ethz.ch/omutlu/pub/sysscale_multi-DVFS-energy-mobile-processors_isca20.pdf)
-  [<mark>Talk Video</mark>](https://www.youtube.com/watch?v=UOK0gDDk1i8)
-  [<mark>Slides</mark>](https://people.inf.ethz.ch/omutlu/pub/sysscale_multi-DVFS-energy-mobile-processors_isca20-talk.pdf)
+  name: SysScale
 
   quote: >
     In this paper, we propose a new multi-domain power management technique to
@@ -67,6 +60,9 @@
 
 
   description: | # this will include new lines to allow paragraphs
+    [<mark>Full paper</mark>](https://people.inf.ethz.ch/omutlu/pub/sysscale_multi-DVFS-energy-mobile-processors_isca20.pdf)
+    [<mark>Talk Video</mark>](https://www.youtube.com/watch?v=UOK0gDDk1i8)
+    [<mark>Slides</mark>](https://people.inf.ethz.ch/omutlu/pub/sysscale_multi-DVFS-energy-mobile-processors_isca20-talk.pdf)
     ```
     Jawad Haj-Yahya, Mohammed Alser, Jeremie Kim, A. Giray Yaglikci, Nandita Vijaykumar, Efraim Rotem, and Onur Mutlu, "SysScale: Exploiting Multi-domain Dynamic Voltage and Frequency Scaling for Energy Efficient Mobile Processors," in Proceedings of the 47th International Symposium on Computer Architecture (ISCA), Valencia, Spain, June 2020.
     ```
