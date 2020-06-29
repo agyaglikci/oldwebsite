@@ -1,4 +1,30 @@
 - layout: left
+  name: SysScale
+  link: https://people.inf.ethz.ch/omutlu/pub/sysscale_multi-DVFS-energy-mobile-processors_isca20-talk.pdf
+  # github: CMU-SAFARI/crow
+  youtube: UOK0gDDk1i8
+  quote: >
+    In this paper, we propose a new multi-domain power management technique to
+    improve the energy efficiency of mobile SoCs. SysScale is based on three key
+    ideas. First, SysScale introduces an accurate algorithm to predict the
+    performance (e.g., band- width and latency) demands of the three SoC domains.
+    Second, SysScale uses a new DVFS (dynamic voltage and frequency scaling)
+    mechanism to distribute the SoC power to each domain according to the
+    predicted performance demands. Third, in addition to using a global DVFS
+    mechanism, SysScale uses domain-specialized techniques to optimize the
+    energy efficiency of each domain at different operating points.
+
+
+  description: | # this will include new lines to allow paragraphs
+    [<mark>Full paper</mark>](https://people.inf.ethz.ch/omutlu/pub/sysscale_multi-DVFS-energy-mobile-processors_isca20.pdf)
+    [<mark>Talk Video</mark>](https://www.youtube.com/watch?v=UOK0gDDk1i8)
+    [<mark>Slides</mark>](https://people.inf.ethz.ch/omutlu/pub/sysscale_multi-DVFS-energy-mobile-processors_isca20-talk.pdf)
+    ```
+    Jawad Haj-Yahya, Mohammed Alser, Jeremie Kim, A. Giray Yaglikci, Nandita Vijaykumar, Efraim Rotem, and Onur Mutlu, "SysScale: Exploiting Multi-domain Dynamic Voltage and Frequency Scaling for Energy Efficient Mobile Processors," in Proceedings of the 47th International Symposium on Computer Architecture (ISCA), Valencia, Spain, June 2020.
+    ```
+
+
+- layout: left
   name: EDEN
   link: https://people.inf.ethz.ch/omutlu/pub/EDEN-efficient-DNN-inference-with-approximate-memory_micro19.pdf
   # github: CMU-SAFARI/crow
