@@ -1,6 +1,9 @@
 - layout: left
-  name: SysScale
-  youtube: UOK0gDDk1i8
+  name: |
+  SysScale
+  [<mark>Full paper</mark>](https://people.inf.ethz.ch/omutlu/pub/sysscale_multi-DVFS-energy-mobile-processors_isca20.pdf)
+  [<mark>Talk Video</mark>](https://www.youtube.com/watch?v=UOK0gDDk1i8)
+  [<mark>Slides</mark>](https://people.inf.ethz.ch/omutlu/pub/sysscale_multi-DVFS-energy-mobile-processors_isca20-talk.pdf)
 
   quote: >
     In this paper, we propose a new multi-domain power management technique to
@@ -15,9 +18,6 @@
 
 
   description: | # this will include new lines to allow paragraphs
-    [<mark>Full paper</mark>](https://people.inf.ethz.ch/omutlu/pub/sysscale_multi-DVFS-energy-mobile-processors_isca20.pdf)
-    [<mark>Talk Video</mark>](https://www.youtube.com/watch?v=UOK0gDDk1i8)
-    [<mark>Slides</mark>](https://people.inf.ethz.ch/omutlu/pub/sysscale_multi-DVFS-energy-mobile-processors_isca20-talk.pdf)
     ```
     Jawad Haj-Yahya, Mohammed Alser, Jeremie Kim, A. Giray Yaglikci, Nandita Vijaykumar, Efraim Rotem, and Onur Mutlu, "SysScale: Exploiting Multi-domain Dynamic Voltage and Frequency Scaling for Energy Efficient Mobile Processors," in Proceedings of the 47th International Symposium on Computer Architecture (ISCA), Valencia, Spain, June 2020.
     ```
