@@ -1,8 +1,7 @@
 - layout: left
   name: SysScale
-  link: https://people.inf.ethz.ch/omutlu/pub/sysscale_multi-DVFS-energy-mobile-processors_isca20-talk.pdf
-  # github: CMU-SAFARI/crow
   youtube: UOK0gDDk1i8
+
   quote: >
     In this paper, we propose a new multi-domain power management technique to
     improve the energy efficiency of mobile SoCs. SysScale is based on three key
