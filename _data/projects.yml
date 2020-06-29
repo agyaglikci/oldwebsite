@@ -25,15 +25,15 @@
   name: CLR-DRAM
 
   quote: >
-    In this paper, we first present an experimental characterization of RowHammer
-    on 1580 DRAM chips (408× DDR3, 652× DDR4, and 520× LPDDR4) from 300 DRAM
-    modules (60× DDR3, 110× DDR4, and 130× LPDDR4) with RowHammer protection
-    mechanisms disabled, spanning multiple different technology nodes from across
-    each of the three major DRAM manufacturers. Our studies definitively show that
-    newer DRAM chips are more vulnerable to RowHammer: as device feature size
-    reduces, the number of activations needed to induce a RowHammer bit flip also
-    reduces, to as few as 9.6k (4.8k to two rows each) in the most vulnerable chip
-    we tested.
+    This paper proposes Capacity-Latency-Reconfigurable DRAM (CLR-DRAM), a new
+    DRAM architecture that enables dynamic capacity-latency trade-off at low cost.
+    CLR-DRAM allows dynamic reconfiguration of any DRAM row to switch between
+    two operating modes: 1) max-capacity mode, where every DRAM cell operates
+    individually to achieve approximately the same storage density as a
+    density-optimized commodity DRAM chip and 2) high-performance mode, where two
+    adjacent DRAM cells in a DRAM row and their sense amplifiers are coupled to
+    operate as a single low-latency logical cell driven by a single logical sense
+    amplifier.
 
 
   description: | # this will include new lines to allow paragraphs
