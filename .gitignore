@@ -1,0 +1,6 @@
+.*-metadata
+*.lock
+*.DS_Store
+*.jpg
+_site
+!profile.jpg
