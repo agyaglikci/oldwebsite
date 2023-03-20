@@ -44,10 +44,10 @@ educaton_title: Education
 more_title: More Information About Me
 more_content: | # this will include new lines to allow paragraphs
   I'm a citizen of Turkey, residing in Zurich (Switzerland).
-  I usually communicate with human-kind in Turkish and English, and with machine-kind
-  in Python, C++, and Verilog HDL.
+  I usually communicate with human-kind in Turkish, English, und ein bisschen Deutsch, while I prefer 
+  Python and C++ to talk with machine-kind. To tell a machine how it should be, I usually prefer Verilog HDL.
 
-  ## Other Projects
+  Other Projects
   These are the projects that I have significantly participated in my early career
   (in reverse chronological order).
     - Effect of Computational Resources on Parallel Processing, Adv. Computer Architecture Course, MS
@@ -57,7 +57,7 @@ more_content: | # this will include new lines to allow paragraphs
     - Autopilot Design for Unmanned Aerial Vehicle, Independent Research, BS.
     - Lagari Model Plane Design, DBF2010 Competition, AIAA
 
-  ## References
+  References
   Below is a list of the people whom I have been lucky to work with.
 
   People from academia:
